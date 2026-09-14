@@ -278,13 +278,15 @@ python -m pytest tests/ -v
 
 ## مستندات
 
-|فایل|توضیح|
+## 📚 مستندات
+
+| فایل | توضیح |
 |---|---|
-|[`docs/architecture.md`](https://www.perplexity.ai/search/docs/architecture.md)|معماری پایپلاین، لایه‌های Schema، Mapping منابع|
-|[`docs/cleaning_rules.md`](https://www.perplexity.ai/search/docs/cleaning_rules.md)|قوانین پاک‌سازی متن، قیمت، URL، Availability|
-|[`docs/data_dictionary.md`](https://www.perplexity.ai/search/docs/data_dictionary.md)|دیکشنری کامل جداول، ستون‌ها و روابط|
-|[`docs/validation_rules.md`](https://www.perplexity.ai/search/docs/validation_rules.md)|قوانین اعتبارسنجی و Severity هر Rule|
-|[`docs/performance_report.md`](https://www.perplexity.ai/search/docs/performance_report.md)|گزارش Performance، Indexها، بهینه‌سازی Queryها|
+| [`docs/01_architecture.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/01_architecture.md) | معماری پایپلاین، لایه‌های Schema، Mapping منابع |
+| [`docs/02_cleaning_rules.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/02_cleaning_rules.md) | قوانین پاک‌سازی متن، قیمت، URL، Availability |
+| [`docs/03_data_dictionary.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/03_data_dictionary.md) | دیکشنری کامل جداول، ستون‌ها و روابط |
+| [`docs/04_validation_rules.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/04_validation_rules.md) | قوانین اعتبارسنجی و Severity هر Rule |
+| [`docs/05_performance_report.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/05_performance_report.md) | گزارش Performance، Indexها، بهینه‌سازی Queryها |
 
 ---
 
