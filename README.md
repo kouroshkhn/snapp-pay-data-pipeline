@@ -283,7 +283,7 @@ python -m pytest tests/ -v
 | فایل | توضیح |
 |---|---|
 | [`docs/01_architecture.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/01_architecture.md) | معماری پایپلاین، لایه‌های Schema، Mapping منابع |
-| [`docs/02_cleaning_rules.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/02_cleaning_rules.md) | قوانین پاک‌سازی متن، قیمت، URL، Availability |
+| [`docs/02_cleaning_and_transformation_rules.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/blob/main/docs/02_cleaning_and_transformation_rules.md) | قوانین پاک‌سازی متن، قیمت، URL، Availability |
 | [`docs/03_data_dictionary.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/03_data_dictionary.md) | دیکشنری کامل جداول، ستون‌ها و روابط |
 | [`docs/04_validation_rules.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/04_validation_rules.md) | قوانین اعتبارسنجی و Severity هر Rule |
 | [`docs/05_performance_report.md`](https://github.com/kouroshkhn/snapp-pay-data-pipeline/tree/main/docs/05_performance_report.md) | گزارش Performance، Indexها، بهینه‌سازی Queryها |
