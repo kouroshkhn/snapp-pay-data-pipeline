@@ -135,7 +135,7 @@ snapp-pay-data-pipeline/
 │   └── performance_report.md     # گزارش عملکرد و بهینه‌سازی
 │
 ├── notebooks/
-│   └── data_profiling.ipynb      # تحلیل اکتشافی داده
+│   └── Ekteshafi.ipynb      # تحلیل اکتشافی داده
 │
 ├── sql/                          # اسکریپت‌های SQL
 │   ├── 01_create_schemas.sql     # ایجاد Schemaها
